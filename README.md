@@ -10,7 +10,6 @@ Video Playback Control: Allows users to control video playback (play, pause, for
 Real-Time Interaction: Provides real-time interaction between the user and the video player based on detected gestures.
 Python Implementation: Entirely implemented in Python for ease of understanding and modification.
 
-
 Requirements:
 Python 3.x
 OpenCV (cv2) for camera feed and image processing
