@@ -25,8 +25,8 @@ Free-hand       : Nothing
 Start & Stop    : Start and Pause the Video
 Volume_up       : Volume Increase
 Volume_down     : Volume Down
-Max_screen      : Maximize the Screen
-Min_screen      : Minimize the Screen
+Max_screen      : Maximise the Screen
+Min_screen      : Minimise the Screen
 Backward Skip   : Skip 5 Sec Backward
 Forward Skip    : Skip 5 sec Forward
 
